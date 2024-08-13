@@ -15,9 +15,9 @@ This repository is a compilation of Python scripts, exercises, and projects cove
 
 ## Contact 
 
-Linkdin - 
+Linkdin - https://www.linkedin.com/in/ashhdubey/
 
-Instagram - 
+Instagram -  https://www.instagram.com/ashhdubey/
 
-Github - 
+Github - https://github.com/ashhhdubey
 
