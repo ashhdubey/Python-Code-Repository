@@ -7,6 +7,7 @@ Welcome to the **Python Code Repository**! This repository contains a collection
 1. [Basics]
 2. [Pattern Programming]
 3. [Small Projects]
+4. [Contacts]
 
 ## Introduction
 
